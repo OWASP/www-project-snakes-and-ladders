@@ -22,7 +22,7 @@ type: documentation
 <p>Snakes and Ladders is an educational project. It uses gamification to promote awareness of application security controls and risks, and in particular knowledge of other OWASP documents and tools.</p>
 <h2 id="editions">Editions</h2>
 <p><em>Web Applications</em></p>
-<p>In the board game for #switchtablink:Web Applications Edition|web applications}}, the virtuous behaviours (ladders) are secure coding practices (from <a href="OWASP_Proactive_Controls" title="wikilink">OWASP Proactive Controls project</a> 2014-2018) and the vices (snakes) are application security risks (from <a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top Ten Project</a> 2013-2017). See also a <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=Top_Ten_Mapping">mapping between these two lists</a>.</p>
+<p>In the board game for #switchtablink:Web Applications Edition|web applications}}, the virtuous behaviours (ladders) are secure coding practices (from <a href="OWASP_Proactive_Controls" title=>OWASP Proactive Controls project</a> 2014-2018) and the vices (snakes) are application security risks (from <a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top Ten Project</a> 2013-2017). See also a <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=Top_Ten_Mapping">mapping between these two lists</a>.</p>
 <p><em>Mobile Apps</em></p>
 <p>The identical board game for #switchtablink:Mobile Apps Edition|mobile apps}} uses mobile controls (from the <a href="https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Top_10_Mobile_Controls">Mobile Security Project Top Ten Controls</a> 2013) as the virtuous behaviours and mobile risks (from the <a href="https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Top_10_Mobile_Risks">Top Ten Mobile Risks</a> 2014 from the same project) as the vices.</p>
 <h2 id="background">Background</h2>
@@ -73,25 +73,25 @@ type: documentation
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <ul>
-<li><a href="OWASP_Proactive_Controls" title="wikilink">OWASP Proactive Controls</a></li>
-<li><a href="OWASP_Proactive_Controls" title="wikilink">OWASP Proactive Controls</a></li>
-<li><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top Ten</a></li>
-<li><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top Ten</a></li>
-<li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security</a></li>
-<li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security</a></li>
+<li><a href="OWASP_Proactive_Controls" title=>OWASP Proactive Controls</a></li>
+<li><a href="OWASP_Proactive_Controls" title=>OWASP Proactive Controls</a></li>
+<li><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top Ten</a></li>
+<li><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top Ten</a></li>
+<li><a href="OWASP_Mobile_Security_Project" title=>OWASP Mobile Security</a></li>
+<li><a href="OWASP_Mobile_Security_Project" title=>OWASP Mobile Security</a></li>
 </ul></td>
 </ul></td>
 <ul>
 <li>Web Applications v1.0/v1.1
 <ul>
-<li><a href="media:OWASP-SnakesAndLadders-WebApplications-BR.pdf" title="wikilink">BR</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-DE.pdf" title="wikilink">DE</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-EN.pdf" title="wikilink">EN</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-ES.pdf" title="wikilink">ES</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-FR.pdf" title="wikilink">FR</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-JA.pdf" title="wikilink">JA</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-TR.pdf" title="wikilink">TR</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-ZH.pdf" title="wikilink">ZH</a></li>
+<li><a href="media:OWASP-SnakesAndLadders-WebApplications-BR.pdf" title=>BR</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-DE.pdf" title=>DE</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-EN.pdf" title=>EN</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-ES.pdf" title=>ES</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-FR.pdf" title=>FR</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-JA.pdf" title=>JA</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-TR.pdf" title=>TR</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-WebApplications-ZH.pdf" title=>ZH</a></li>
 <li>#switchtablink:Web Applications Edition|More options...}}</li>
 </ul></li>
 </ul>
 <ul>
 <li>Mobile Apps v1.0
 <ul>
-<li><a href="media:OWASP-SnakesAndLadders-MobileApps-EN.pdf" title="wikilink">EN</a>, <a href="media:OWASP-SnakesAndLadders-MobileApps-JA.pdf" title="wikilink">JA</a></li>
+<li><a href="/www-pdf-archive/OWASP-SnakesAndLadders-MobileApps-EN.pdf" title=>EN</a>, <a href="/www-pdf-archive/OWASP-SnakesAndLadders-MobileApps-JA.pdf" title=>JA</a></li>
 <li>#switchtablink:Mobile Apps Edition|More options...}}</li>
 </ul></li>
 </ul>
@@ -133,9 +133,9 @@ This was the first edition created. The objective is to raise awareness
 of the security controls that every web application should have, but
 link that with the much more widely known Top Ten Risks. The virtuous
 behaviours (ladders) are secure coding practices (from [OWASP Proactive
-Controls project](OWASP_Proactive_Controls "wikilink") 2014-2018) and
+Controls project](OWASP_Proactive_Controls ) 2014-2018) and
 the vices (snakes) are application security risks (from [OWASP Top Ten
-Project](:Category:OWASP_Top_Ten_Project "wikilink") 2013-2017).
+Project](:Category:OWASP_Top_Ten_Project ) 2013-2017).
 
 <div style="height:539px;max-width:750px;border:0,margin:0;overflow:hidden;">
 
@@ -148,9 +148,9 @@ Project](:Category:OWASP_Top_Ten_Project "wikilink") 2013-2017).
 <table>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-BR.pdf">BR: Português Brasileiro</a></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-DE.pdf">DE: Deutsch</a></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-EN.pdf">EN: English</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-BR.pdf">BR: Português Brasileiro</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-DE.pdf">DE: Deutsch</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-EN.pdf">EN: English</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><figure>
@@ -183,9 +183,9 @@ Web Applications</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-ES.pdf">ES: Español</a></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-FR.pdf">FR: Français</a></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-ES.pdf">ES: Español</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-FR.pdf">FR: Français</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><figure>
@@ -218,8 +218,8 @@ Application Web</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-TR.pdf">TR: Türkçe</a></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-ZH.pdf">ZH: 中文</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-TR.pdf">TR: Türkçe</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-ZH.pdf">ZH: 中文</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -307,8 +307,8 @@ Risks](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Top_10_
 <table>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-MobileApps-EN.pdf">EN: English</a></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-MobileApps-EN.pdf">EN: English</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><figure>
@@ -457,10 +457,10 @@ worldwide team of volunteers. The contributors to date have been:
 
   - The project leaders and contributors to the referenced controls and
     risks:
-      - [OWASP Proactive Controls](OWASP_Proactive_Controls "wikilink")
-      - [OWASP Top Ten](:Category:OWASP_Top_Ten_Project "wikilink")
+      - [OWASP Proactive Controls](OWASP_Proactive_Controls )
+      - [OWASP Top Ten](:Category:OWASP_Top_Ten_Project )
       - [OWASP Mobile
-        Security](OWASP_Mobile_Security_Project "wikilink")
+        Security](OWASP_Mobile_Security_Project )
   - OWASP staff for helping to set up the project and support its
     ongoing activities.
 
@@ -527,8 +527,8 @@ list](https://lists.owasp.org/mailman/listinfo/owasp_snakes_and_ladders).
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:SAMM-EG-1](Category:SAMM-EG-1 "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:SAMM-EG-1](Category:SAMM-EG-1 )
