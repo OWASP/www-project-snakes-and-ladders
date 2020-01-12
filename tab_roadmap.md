@@ -1,13 +1,13 @@
 ---
 title: Roadmap
-displaytext: Road Map and getting Involved
+displaytext: Road Map and Getting Involved
 layout: null
 tab: true
 order: 6
 tags: sl
 ---
 
-## Road Map and getting Involved
+## Road Map and Getting Involved
 
 Involvement in the development and promotion of Snakes and Ladders is actively encouraged! You do not have to be a security expert in order to contribute. Some of the ways you can help are listed below.
 
