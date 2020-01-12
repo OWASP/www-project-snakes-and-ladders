@@ -2,14 +2,19 @@
 
 layout: col-sidebar
 title: OWASP Snakes And Ladders
-tags: example-tag
-level: 0
+site_side: true
+tags: sl
+project: true
+level: 3
 type: documentation
 
 auto-migrated: 1
 
 ---
 
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](https://www2.owasp.org/projects#div-lab)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OWASPSnakesWeb?style=social)](https://twitter.com/OWASPSnakesWeb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OWASPSnakesMobile?style=social)](https://twitter.com/OWASPSnakesMobile)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
