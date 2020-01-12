@@ -9,7 +9,7 @@ tags: sl
 
 ## How to Play
 
-Snakes and Ladders is a popular board game, with ancient provenance imported into Great Britain from Asia in the 19th century. The original game showed the effects of good and evil, or virtues and vices. This OWASP game is a poster-sized print-your-own paper sheet with the game board on it. Just get some players together with a die and counters. The virtues are application security controls, and the vices are risks.
+Snakes and Ladders is a popular board game, with [ancient provenance](http://en.wikipedia.org/wiki/Snakes_and_Ladders) imported into [Great Britain from Asia](http://sandradodd.com/game/snakesandladders) in the 19th century. The original game showed the effects of good and evil, or virtues and vices. This OWASP game is a poster-sized print-your-own paper sheet with the game board on it. Just get some players together with a die and counters. The virtues are application security controls, and the vices are risks.
 
 * The game is for 2-6 players.
 * Firstly print the sheet out, get a six-sided die and some counters (markers).
