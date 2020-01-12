@@ -1,11 +1,11 @@
 ### Quick Downloads
 
 * Web Applications v1.0/v1.1
- * BR, DE, EN, ES, FR, JA, TR, ZH
- * More options...
+  * BR, DE, EN, ES, FR, JA, TR, ZH
+  * More options...
 * Mobile Apps v1.0
- * EN, JA
- * More options...
+  * EN, JA
+  * More options...
 
 ### What is This?
 
@@ -16,7 +16,6 @@ Snakes and Ladders is a popular board game, with [ancient provenance](http://en.
 * <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
 * <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
 * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
-* [Current Version (2017)](OWASP_Top_Ten_2017)
 
 
 
