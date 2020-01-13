@@ -18,7 +18,7 @@ Controls project](/www-project-proactive-controls) 2014-2018) and
 the vices (snakes) are application security risks (from [OWASP Top Ten
 Project](/www-project-top-ten) 2013-2017).
 
-![Overview image of the DE version of OWASP Snakes and Ladders](assets/images/osn-poster-web-de.jpg)
+![Overview image of the DE version of OWASP Snakes and Ladders](assets/images/Osn-poster-web-de.jpg)
 
 ## Current Releases
 
@@ -26,7 +26,7 @@ Language | Example Square | Title
 ------------ | ------------- | ------------- 
 BR: Português Brasileiro | | Serpentes e Escadas Aplicativos da Web
 DE: Deutsch | | Schlangen und Leitern Web Anwendungen
-[EN: English](OWASP-SnakesAndLadders-WebApplications-ED.html) | ![](assets/images/osn-webapp-EN.jpg) | Snakes and Ladders Web Applications
+[EN: English](assets/files/OWASP-SnakesAndLadders-WebApplications-EN.html) | ![](assets/images/Osn-webapp-EN.png) | Snakes and Ladders Web Applications
 ES: Español | | Serpientes y Escaleras Aplicaciones Web
 FR: Français | | Serpents et Échelles Application Web
 JA: 日本語 | | 蛇とはしご ウェブアプリケーション
