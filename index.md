@@ -10,7 +10,7 @@ type: documentation
 
 ---
 
-[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](https://www2.owasp.org/projects#div-lab)
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](/projects)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASPSnakesWeb?style=social)](https://twitter.com/OWASPSnakesWeb)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASPSnakesMob?style=social)](https://twitter.com/OWASPSnakesMob)
 
@@ -22,11 +22,11 @@ Snakes and Ladders is an educational project. It uses gamification to promote aw
 
 *Web Applications*
 
-In the board game for web applications, the virtuous behaviours (ladders) are secure coding practices (from [OWASP Proactive Controls Project](https://www2.owasp.org/www-project-proactive-controls) 2014-2018) and the vices (snakes) are application security risks (from [OWASP Top Ten Project](https://www2.owasp.org/www-project-top-ten) 2013-2017). See also a [mapping between these two lists](https://www2.owasp.org/www-project-proactive-controls/2018/OWASP_TOP_10_Proactive_Controls_2018_V3_PL.pdf).
+In the board game for web applications, the virtuous behaviours (ladders) are secure coding practices (from [OWASP Proactive Controls Project](/www-project-proactive-controls) 2014-2018) and the vices (snakes) are application security risks (from [OWASP Top Ten Project](/www-project-top-ten) 2013-2017). See also a [mapping between these two lists](/www-project-proactive-controls/2018/OWASP_TOP_10_Proactive_Controls_2018_V3_PL.pdf).
 
 *Mobile Apps*
 
-The identical board game for mobile apps uses mobile controls (from the [Mobile Security Project](https://www2.owasp.org/www-project-mobile-security) top ten controls 2013) as the virtuous behaviours and mobile risks (the top ten mobile risks 2014 from the same project) as the vices.
+The identical board game for mobile apps uses mobile controls (from the [Mobile Security Project](/www-project-mobile-security) top ten controls 2013) as the virtuous behaviours and mobile risks (the top ten mobile risks 2014 from the same project) as the vices.
 
 ## Background
 
@@ -46,6 +46,6 @@ OWASP Snakes and Ladders is free to use. It is licensed under the [Creative Comm
 
 ## Other Security Gamification
 
-If you are interested in using gaming for security, also see [OWASP Cornucopia](https://www2.owasp.org/www-project-cornucopia), [Elevation of Privilege: The Threat Modeling Game](http://www.microsoft.com/security/sdl/adopt/eop.aspx), [Security Cards](http://securitycards.cs.washington.edu/) from the University of Washington, the commercial card game [Control-Alt-Hack](http://www.controlalthack.com/) ([presentation](http://media.blackhat.com/bh-us-12/Briefings/Kohno/BH_US_12_Kohno_Control_Alt_Hack_Slides.pdf)), and web application security training tools incorporating gamification such as [OWASP Hackademic Challenges Project](https://www2.owasp.org/www-project-hackademic-challenges), [OWASP Security Shepher](https://www2.owasp.org/www-project-security-shepherd)d and [ITSEC Games](http://itsecgames.blogspot.co.uk/).
+If you are interested in using gaming for security, also see [OWASP Cornucopia](/www-project-cornucopia), [Elevation of Privilege: The Threat Modeling Game](http://www.microsoft.com/security/sdl/adopt/eop.aspx), [Security Cards](http://securitycards.cs.washington.edu/) from the University of Washington, the commercial card game [Control-Alt-Hack](http://www.controlalthack.com/) ([presentation](http://media.blackhat.com/bh-us-12/Briefings/Kohno/BH_US_12_Kohno_Control_Alt_Hack_Slides.pdf)), and web application security training tools incorporating gamification such as [OWASP Hackademic Challenges Project](/www-project-hackademic-challenges), [OWASP Security Shepherd](/www-project-security-shepherd) and [ITSEC Games](http://itsecgames.blogspot.co.uk/).
 
 Additionally, Adam Shostack maintains a list of tabletop security games and related resources at [security games](http://adam.shostack.org/games.html).
