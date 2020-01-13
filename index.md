@@ -20,11 +20,11 @@ Snakes and Ladders is an educational project. It uses gamification to promote aw
 
 ## Editions
 
-*Web Applications*
+*[Web Applications](/www-project-snakes-and-ladders#div-webapplications)*
 
 In the board game for web applications, the virtuous behaviours (ladders) are secure coding practices (from [OWASP Proactive Controls Project](/www-project-proactive-controls) 2014-2018) and the vices (snakes) are application security risks (from [OWASP Top Ten Project](/www-project-top-ten) 2013-2017). See also a [mapping between these two lists](/www-project-proactive-controls/2018/OWASP_TOP_10_Proactive_Controls_2018_V3_PL.pdf).
 
-*Mobile Apps*
+*[Mobile Apps](/www-project-snakes-and-ladders#div-mobileapps)*
 
 The identical board game for mobile apps uses mobile controls (from the [Mobile Security Project](/www-project-mobile-security) top ten controls 2013) as the virtuous behaviours and mobile risks (the top ten mobile risks 2014 from the same project) as the vices.
 
