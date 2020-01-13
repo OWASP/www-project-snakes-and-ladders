@@ -8,8 +8,6 @@ project: true
 level: 3
 type: documentation
 
-auto-migrated: 1
-
 ---
 
 [![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow.svg)](https://www2.owasp.org/projects#div-lab)
