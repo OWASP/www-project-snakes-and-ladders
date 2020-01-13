@@ -17,6 +17,8 @@ Snakes and Ladders is a popular board game, with [ancient provenance](http://en.
 
 ### Twitter
 
+![Picture of a die and two markers on an OWASP Snakes and Ladders sheet](assets/images/OWASPSnakesWeb-profile-small.jpg)
+
 Follow two mock games running on Twitter:
 
 * [@OWASPSnakesWeb](https://twitter.com/OWASPSnakesWeb)
