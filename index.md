@@ -36,12 +36,6 @@ Print-ready PDFs have been published - these are poster sized A2 (international 
 
 We hope it may be of use in any upcoming office party, celebration, festival, seasonal event, application security awareness or training exercise. Or just to help spread the word about controls and risks at work, at college or at school. If you are training anyone about the OWASP Top Ten, OWASP Proactive Controls or the OWASP Mobile projects, please consider giving each attendee a printed copy of the game as a take away.
 
-## Licensing
-
-OWASP Snakes and Ladders is free to use. It is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/), so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
-
-© OWASP Foundation
-
 ## Other Security Gamification
 
 If you are interested in using gaming for security, also see [OWASP Cornucopia](https://www2.owasp.org/www-project-cornucopia), [Elevation of Privilege: The Threat Modeling Game](http://www.microsoft.com/security/sdl/adopt/eop.aspx), [Security Cards](http://securitycards.cs.washington.edu/) from the University of Washington, the commercial card game [Control-Alt-Hack](http://www.controlalthack.com/) ([presentation](http://media.blackhat.com/bh-us-12/Briefings/Kohno/BH_US_12_Kohno_Control_Alt_Hack_Slides.pdf)), and web application security training tools incorporating gamification such as [OWASP Hackademic Challenges Project](https://www2.owasp.org/www-project-hackademic-challenges), [OWASP Security Shepher](https://www2.owasp.org/www-project-security-shepherd)d and [ITSEC Games](http://itsecgames.blogspot.co.uk/).
