@@ -22,13 +22,13 @@ Project](/www-project-top-ten) 2013-2017).
 
 ## Current Releases
 
-Language Code: Name / Title | Current Version | Example Square
------------- | ------ | -------------
-BR: Português Brasileiro<br/><br/>Serpentes e Escadas Aplicativos da Web | | ![](assets/images/Osn-webapp-BR.png)
-DE: Deutsch<br/><br/>Schlangen und Leitern Web Anwendungen | | ![](assets/images/Osn-webapp-DE.png)
-[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN)<br/><br/>Snakes and Ladders Web Applications | v1.20 | ![](assets/images/Osn-webapp-EN.png)
-ES: Español<br/><br/>Serpientes y Escaleras Aplicaciones Web | | ![](assets/images/Osn-webapp-ES.png)
-FR: Français<br/><br/>Serpents et Échelles Application Web | | ![](assets/images/Osn-webapp-FR.png)
-JA: 日本語<br/><br/>蛇とはしご ウェブアプリケーション | | ![](assets/images/Osn-webapp-JA.png)
-TR: Türkçe<br/><br/>Yılanlar ve Merdivenler Web Uygulamaları | | ![](assets/images/Osn-webapp-TR.png)
-ZH: 中文<br/><br/> 蛇梯棋 WEB应用程序 | | ![](assets/images/Osn-webapp-ZH.png)
+Language Code: Name / Title / Current Version | Example Square
+------------ | ------ 
+BR: Português Brasileiro<br/><br/>Serpentes e Escadas Aplicativos da Web<br/><br/> | ![](assets/images/Osn-webapp-BR.png)
+DE: Deutsch<br/><br/>Schlangen und Leitern Web Anwendungen<br/><br/> | ![](assets/images/Osn-webapp-DE.png)
+[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN)<br/><br/>Snakes and Ladders Web Applications<br/><br/> v1.20 | ![](assets/images/Osn-webapp-EN.png)
+ES: Español<br/><br/>Serpientes y Escaleras Aplicaciones Web<br/><br/> | ![](assets/images/Osn-webapp-ES.png)
+FR: Français<br/><br/>Serpents et Échelles Application Web<br/><br/> | ![](assets/images/Osn-webapp-FR.png)
+JA: 日本語<br/><br/>蛇とはしご ウェブアプリケーション<br/><br/> | ![](assets/images/Osn-webapp-JA.png)
+TR: Türkçe<br/><br/>Yılanlar ve Merdivenler Web Uygulamaları<br/><br/> | ![](assets/images/Osn-webapp-TR.png)
+ZH: 中文<br/><br/> 蛇梯棋 WEB应用程序<br/><br/> | ![](assets/images/Osn-webapp-ZH.png)
