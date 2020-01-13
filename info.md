@@ -1,8 +1,9 @@
 ### Quick Downloads
-* Web Applications v1.0/v1.1
-  * BR, DE, EN, ES, FR, JA, TR, ZH
-  * More options...
-* Mobile Apps v1.0
+
+* Web Applications
+  * BR, DE, [EN](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN), ES, FR, JA, TR, ZH
+  * [More options...](#div-webapplications)
+* Mobile Apps
   * EN, JA
   * More options...
 
