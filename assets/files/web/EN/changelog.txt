@@ -1,0 +1,20 @@
+# OWASP Snakes And Ladders - Web Applications - EN
+# Change Log
+====================================
+
+## Unrealeased
+
+## v1.20 - 09 May 2018
+- Updated to OWASP Proactive Controls 2018
+
+## v1.10 - 05 June 2016
+- Updated to OWASP Proactive Controls 2016
+
+## v1.02 - 25 November 2014
+- Additional contributor named
+
+## v1.01 - 05 November 2014
+- Correction to paths in source Illustrator file
+
+## v1.00 - 31 October 2014
+- Snakes and Ladders for Web Applications - EN - Version 1.0
