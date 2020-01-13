@@ -26,7 +26,7 @@ In the board game for web applications, the virtuous behaviours (ladders) are se
 
 *Mobile Apps*
 
-The identical board game for mobile apps uses mobile controls (from the [Mobile Security Project](https://www2.owasp.org/www-project-mobile-security) Top Ten Controls 2013) as the virtuous behaviours and mobile risks (from the Top Ten Mobile Risks 2014 from the same project) as the vices.
+The identical board game for mobile apps uses mobile controls (from the [Mobile Security Project](https://www2.owasp.org/www-project-mobile-security) top ten controls 2013) as the virtuous behaviours and mobile risks (the top ten mobile risks 2014 from the same project) as the vices.
 
 ## Background
 
