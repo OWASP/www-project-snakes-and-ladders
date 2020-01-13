@@ -30,7 +30,9 @@ The identical board game for mobile apps uses mobile controls (from the [Mobile 
 
 ## Background
 
-This board game was created to use as an ice-breaker in application security training, but it potentially has wider appeal simply as a promotional hand-out, and maybe also more usefully as learning materials for younger coders. To cover all of that, we use the phrase "OWASP Snakes and Ladders is meant to be used by software programmers, big and small".
+This board game was created to use as an ice-breaker in application security training, but it potentially has wider appeal simply as a promotional hand-out, and maybe also more usefully as learning materials for younger coders. To cover all of that, we use the phrase:
+
+<p class="callout-mono left">"OWASP Snakes and Ladders is meant to be used by software programmers, big and small"</p>
 
 The game is quite lightweight, and does not have the same rigour or depth as the card game Cornucopia, but it is meant to be just some fun with some learning attached.
 
