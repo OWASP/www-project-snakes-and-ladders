@@ -26,7 +26,7 @@ Language | Current Version | Example Square | Title
 ------------ | ------ | ------------- | ------------- 
 BR: Português Brasileiro | | | Serpentes e Escadas Aplicativos da Web
 DE: Deutsch | | | Schlangen und Leitern Web Anwendungen
-[EN: English](assets/files/EN/) | v1.20 | ![](assets/images/Osn-webapp-EN.png) | Snakes and Ladders Web Applications
+[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN) | v1.20 | ![](assets/images/Osn-webapp-EN.png) | Snakes and Ladders Web Applications
 ES: Español | | | Serpientes y Escaleras Aplicaciones Web
 FR: Français | | | Serpents et Échelles Application Web
 JA: 日本語 | | | 蛇とはしご ウェブアプリケーション
