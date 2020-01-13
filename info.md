@@ -1,9 +1,9 @@
 ### Quick Downloads
 
 * [Web Applications](/www-project-snakes-and-ladders#div-webapplications): 
-  BR, DE, [EN](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN), ES, FR, JA, TR, ZH
-* Mobile Apps: 
-  EN, JA
+* BR, DE, [EN](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN), ES, FR, JA, TR, ZH
+* [Mobile Apps](/www-project-snakes-and-ladders#div-mobileapps): 
+* EN, JA
 
 ### What is This?
 
