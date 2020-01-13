@@ -15,7 +15,20 @@ Snakes and Ladders is a popular board game, with [ancient provenance](http://en.
 * <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
 * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
 
+### Twitter
 
+Follow two mock games running on Twitter:
+
+* [@OWASPSnakesWeb](https://twitter.com/OWASPSnakesWeb)
+* [@OWASPSnakesMob](https://twitter.com/OWASPSnakesMob)
+
+### License
+
+OWASP Snakes and Ladders is free to use. It is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/), so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
+![CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/80x15.png)
+
+© OWASP Foundation
 
 <!--### Project Information
 * Project Level
