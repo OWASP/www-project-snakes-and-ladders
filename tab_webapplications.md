@@ -26,7 +26,7 @@ Language Code: Name / Title / Current Version | Example Square
 ------------ | ------ 
 BR: Português Brasileiro<br/><br/>Serpentes e Escadas Aplicativos da Web<br/><br/> | ![](assets/images/Osn-webapp-BR.png)
 DE: Deutsch<br/><br/>Schlangen und Leitern Web Anwendungen<br/><br/> | ![](assets/images/Osn-webapp-DE.png)
-[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN)<br/><br/>Snakes and Ladders Web Applications<br/><br/> v1.20 | ![](assets/images/Osn-webapp-EN.png)
+[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/EN)<br/><br/>Snakes and Ladders Web Applications<br/><br/> v1.20 | ![](assets/images/Osn-webapp-EN.png)
 ES: Español<br/><br/>Serpientes y Escaleras Aplicaciones Web<br/><br/> | ![](assets/images/Osn-webapp-ES.png)
 FR: Français<br/><br/>Serpents et Échelles Application Web<br/><br/> | ![](assets/images/Osn-webapp-FR.png)
 JA: 日本語<br/><br/>蛇とはしご ウェブアプリケーション<br/><br/> | ![](assets/images/Osn-webapp-JA.png)
