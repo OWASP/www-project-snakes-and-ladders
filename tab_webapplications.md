@@ -24,11 +24,11 @@ Project](/www-project-top-ten) 2013-2017).
 
 Language | Current Version | Example Square | Title
 ------------ | ------ | ------------- | ------------- 
-BR: Português Brasileiro | | | Serpentes e Escadas Aplicativos da Web
-DE: Deutsch | | | Schlangen und Leitern Web Anwendungen
+BR: Português Brasileiro | | ![](assets/images/Osn-webapp-BR.png) | Serpentes e Escadas Aplicativos da Web
+DE: Deutsch | | ![](assets/images/Osn-webapp-DE.png) | Schlangen und Leitern Web Anwendungen
 [EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN) | v1.20 | ![](assets/images/Osn-webapp-EN.png) | Snakes and Ladders Web Applications
-ES: Español | | | Serpientes y Escaleras Aplicaciones Web
-FR: Français | | | Serpents et Échelles Application Web
-JA: 日本語 | | | 蛇とはしご ウェブアプリケーション
-TR: Türkçe | | | Yılanlar ve Merdivenler Web Uygulamaları
-ZH: 中文 | | | 蛇梯棋 WEB应用程序
+ES: Español | | ![](assets/images/Osn-webapp-ES.png) | Serpientes y Escaleras Aplicaciones Web
+FR: Français | | ![](assets/images/Osn-webapp-FR.png) | Serpents et Échelles Application Web
+JA: 日本語 | | ![](assets/images/Osn-webapp-JA.png) | 蛇とはしご ウェブアプリケーション
+TR: Türkçe | | ![](assets/images/Osn-webapp-TR.png) | Yılanlar ve Merdivenler Web Uygulamaları
+ZH: 中文 | | ![](assets/images/Osn-webapp-ZH.png) | 蛇梯棋 WEB应用程序
