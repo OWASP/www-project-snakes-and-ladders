@@ -14,6 +14,8 @@ type: documentation
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASPSnakesWeb?style=social)](https://twitter.com/OWASPSnakesWeb)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASPSnakesMob?style=social)](https://twitter.com/OWASPSnakesMob)
 
+![OWASP Snakes and ladders sheet](assets/images/Snakes_and_ladders-header.png)
+
 Snakes and Ladders is an educational project. It uses gamification to promote awareness of application security controls and risks, and in particular knowledge of other OWASP documents and tools.
 
 ## Editions
