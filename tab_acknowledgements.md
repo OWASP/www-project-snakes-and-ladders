@@ -23,6 +23,7 @@ Snakes and Ladders is developed, maintained, updated and promoted by a worldwide
 * Martin Haslinger
 * Yongliang He
 * Manfred Hofmeier
+* Björn Kimminich
 * Cédric Messeguer
 * Takanori Nakanowatari
 * Marcos Vinícius Nunes de Arruda
