@@ -32,3 +32,9 @@ FR: Français<br/><br/>Serpents et Échelles Application Web<br/><br/> | ![](ass
 JA: 日本語<br/><br/>蛇とはしご ウェブアプリケーション<br/><br/> | ![](assets/images/Osn-webapp-JA.png)
 TR: Türkçe<br/><br/>Yılanlar ve Merdivenler Web Uygulamaları<br/><br/> | ![](assets/images/Osn-webapp-TR.png)
 ZH: 中文<br/><br/> 蛇梯棋 WEB应用程序<br/><br/> | ![](assets/images/Osn-webapp-ZH.png)
+
+## Tabletop Simulator
+
+A digital version (of the English release) is [available on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1969196030). It can be played with 2-6 players online. While [the game itself is a free community download](https://steamcommunity.com/sharedfiles/filedetails/?id=1969196030), all players must have [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) in their Steam library.
+
+![](https://steamuserimages-a.akamaihd.net/ugc/772864662280754056/4284CB1CC51DC1676BC02CD71EF9B3E3B5E1FDAB/)
