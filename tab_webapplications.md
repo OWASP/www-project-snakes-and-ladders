@@ -37,6 +37,12 @@ Note that some languages choose not to change the EN text for risk and control n
 
 Source: [Adobe Illustrator file](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web)
 
+### Tabletop Simulator
+
+A digital version (of the English release) is [available on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1969196030). It can be played with 2-6 players online. While [the game itself is a free community download](https://steamcommunity.com/sharedfiles/filedetails/?id=1969196030), all players must have [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) in their Steam library.
+
+![](https://steamuserimages-a.akamaihd.net/ugc/772864662280754056/4284CB1CC51DC1676BC02CD71EF9B3E3B5E1FDAB/)
+
 ## Colour Scheme 'Classic'
 
 ![One row slice of the board showing the colours in use](assets/images/Snakes_and_ladders_webapp-mini-banner.png)
@@ -50,6 +56,3 @@ This edition uses simple primary colours, like many versions that can be seen in
 * Blue
 
 The start square (1) is yellow and the final square (100) is red.
-
-
-
