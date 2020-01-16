@@ -1,0 +1,14 @@
+# OWASP Snakes And Ladders - Mobile Apps - EN
+# Change Log
+====================================
+
+## Unreleased
+
+## v1.02 - 02 December 2014
+- Contributors updated with release of JA version
+
+## v1.01 - 05 November 2014
+- Correction to paths in source Illustrator file
+
+## v1.00 - 31 October 2014
+- Snakes and Ladders for Mobile Apps - EN - Version 1.00
