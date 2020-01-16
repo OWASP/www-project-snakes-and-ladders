@@ -1,0 +1,28 @@
+# OWASP Snakes And Ladders - Web Applications - Source Illustrator file
+# PDF exports in each language are in separate sub-directories below
+# Change Log
+====================================
+
+## Unreleased
+
+
+## v1.11 - 12 May 2017
+- TR added with special "91"
+
+## v1.10 - 12 May 2017
+- EN updated for Proactive Controls 2016
+
+## v1.022 - 29 September 2015
+- BR added
+
+## v1.021 - 19 December 2014
+- Missing JA layer added in
+
+## v1.02 - 06 December 2014
+- FR, JA and ZH translations; contributors updated
+
+## v1.01 - 05 November 2014
+- Correction to paths in source Illustrator file
+
+## v1.00 - 31 October 2014
+- Snakes and Ladders for Web Applications - Version 1.00
