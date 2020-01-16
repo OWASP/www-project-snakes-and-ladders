@@ -1,9 +1,9 @@
 ### Quick Downloads
 
 * [Web Applications](/www-project-snakes-and-ladders#div-webapplications): 
-* [BR](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/BR), [DE](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/DE), [EN](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/EN), [ES](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/ES), [FR](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/FR), [JA](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/JA), [TR](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/TR), [ZH](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/ZH)
+* [BR](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/BR), [DE](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/DE), [EN](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/EN), [ES](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/ES), [FR](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/FR), [JA](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/JA), [TR](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/TR), [ZH](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/ZH)
 * [Mobile Apps](/www-project-snakes-and-ladders#div-mobileapps): 
-* EN, JA
+* [EN](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/mob/EN), [JA](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/mob/JA)
 
 ### What is This?
 
