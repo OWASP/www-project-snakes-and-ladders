@@ -1,0 +1,12 @@
+# OWASP Snakes And Ladders - Web Applications - JA
+# Change Log
+====================================
+
+## Unrealeased
+
+
+## v1.02 - 25 November 2014
+- Additional contributor named, improved some phrases.
+
+## v1.01 - 25 November 2014
+- Snakes and Ladders for Web Applications - JA - Version 1.01
