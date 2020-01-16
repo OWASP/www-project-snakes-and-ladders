@@ -24,11 +24,32 @@ Project](/www-project-top-ten) 2013-2017).
 
 Language Code: Name / Title / Current Version | Example Square
 ------------ | ------ 
-BR: Português Brasileiro<br/><br/>Serpentes e Escadas Aplicativos da Web<br/><br/> | ![](assets/images/Osn-webapp-BR.png)
-DE: Deutsch<br/><br/>Schlangen und Leitern Web Anwendungen<br/><br/> | ![](assets/images/Osn-webapp-DE.png)
-[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/EN)<br/><br/>Snakes and Ladders Web Applications<br/><br/> v1.20 | ![](assets/images/Osn-webapp-EN.png)
-ES: Español<br/><br/>Serpientes y Escaleras Aplicaciones Web<br/><br/> | ![](assets/images/Osn-webapp-ES.png)
-FR: Français<br/><br/>Serpents et Échelles Application Web<br/><br/> | ![](assets/images/Osn-webapp-FR.png)
-JA: 日本語<br/><br/>蛇とはしご ウェブアプリケーション<br/><br/> | ![](assets/images/Osn-webapp-JA.png)
-TR: Türkçe<br/><br/>Yılanlar ve Merdivenler Web Uygulamaları<br/><br/> | ![](assets/images/Osn-webapp-TR.png)
-ZH: 中文<br/><br/> 蛇梯棋 WEB应用程序<br/><br/> | ![](assets/images/Osn-webapp-ZH.png)
+[BR: Português Brasileiro](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/BR)<br/><br/>Serpentes e Escadas Aplicativos da Web<br/><br/> | [![BR](assets/images/Osn-webapp-BR.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/BR)
+[DE: Deutsch](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/DE)<br/><br/>Schlangen und Leitern Web Anwendungen<br/><br/> | [![DE](assets/images/Osn-webapp-DE.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/DE)
+[EN: English](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/EN)<br/><br/>Snakes and Ladders Web Applications<br/><br/> v1.20 | [![EN](assets/images/Osn-webapp-EN.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/EN)
+[ES: Español](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/ES)<br/><br/>Serpientes y Escaleras Aplicaciones Web<br/><br/> | [![ES](assets/images/Osn-webapp-ES.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/ES)
+[FR: Français](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/FR)<br/><br/>Serpents et Échelles Application Web<br/><br/> | [![FR](assets/images/Osn-webapp-FR.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/FR)
+[JA: 日本語](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/JA)<br/><br/>蛇とはしご ウェブアプリケーション<br/><br/> | [![JA](assets/images/Osn-webapp-JA.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/JA)
+[TR: Türkçe](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/TR)<br/><br/>Yılanlar ve Merdivenler Web Uygulamaları<br/><br/> | [![TR](assets/images/Osn-webapp-TR.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/TR)
+[ZH: 中文](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/ZH)<br/><br/> 蛇梯棋 WEB应用程序<br/><br/> | [![ZH](assets/images/Osn-webapp-ZH.png)](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web/ZH)
+
+Note that some languages choose not to change the EN text for risk and control names.
+
+([Source Adobe Illustrator file]()
+
+## Colour Scheme 'Classic'
+
+![One row slice of the board showing the colours in use](assets/images/Snakes_and_ladders_webapp-mini-banner.png)
+
+This edition uses simple primary colours, like many versions that can be seen in pictures of Snakes and Ladders games. The colours used in 'Classic' are:
+
+* Green
+* Yellow
+* White
+* Red
+* Blue
+
+The start square (1) is yellow and the final square (100) is red.
+
+
+
