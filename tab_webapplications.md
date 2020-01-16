@@ -35,7 +35,7 @@ Language Code: Name / Title / Current Version | Example Square
 
 Note that some languages choose not to change the EN text for risk and control names.
 
-([Source Adobe Illustrator file](assets/files/web))
+Source: [Adobe Illustrator file](https://github.com/OWASP/www-project-snakes-and-ladders/tree/master/assets/files/web)
 
 ## Colour Scheme 'Classic'
 
