@@ -2,7 +2,8 @@
 # Change Log
 ====================================
 
-## Unrealeased
+## v1.30 - 12 Aug 2024
+- Updated to OWASP Top Ten 2021 and OWASP Proactive Controls 2024
 
 ## v1.20 - 09 May 2018
 - Updated to OWASP Proactive Controls 2018
