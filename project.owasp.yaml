@@ -1,0 +1,23 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Katy Anton
+    email: katy.anton@owasp.org
+    github: katyanton
+  - name: Colin Watson
+    email: colin.watson@owasp.org
+    github: cw-owasp
+level: 3
+name: OWASP Snakes And Ladders
+pitch: Description for OWASP Snakes And Ladders
+repositories:
+  - name: www-project-snakes-and-ladders
+    url: https://github.com/OWASP/www-project-snakes-and-ladders
+    description: OWASP Foundation Web Repository
+tags:
+  - sl
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-snakes-and-ladders
