@@ -19,7 +19,7 @@ Recently completed:
 
 The ongoing priorities are:
 
-* Update as other referenced projects updated (e.g. Top Ten)
+* In late 2025 update when other referenced projects release their new updates (e.g. Top Ten, Proactive Controls)
 
 Other ideas are:
 
